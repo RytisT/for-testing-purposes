@@ -6,6 +6,7 @@
 yarn # if you don't have yarn, install with: npm install -g yarn
 npm run start
 ```
+![Drag Racing](https://www.w3schools.com/w3css/img_lights.jpg)
 
 ```
 shell script to make a prod build:
