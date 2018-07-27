@@ -6,7 +6,7 @@
 yarn # if you don't have yarn, install with: npm install -g yarn
 npm run start
 ```
-![Drag Racing](1_YgtCXuRGmPfPg2PogXVCfQ.png)
+(1_YgtCXuRGmPfPg2PogXVCfQ.png)
 
 ```
 shell script to make a prod build:
