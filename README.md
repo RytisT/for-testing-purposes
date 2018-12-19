@@ -6,6 +6,7 @@
 yarn # if you don't have yarn, install with: npm install -g yarn
 npm run start
 ```
+![Image of Yaktocat](1_YgtCXuRGmPfPg2PogXVCfQ.png)
 (1_YgtCXuRGmPfPg2PogXVCfQ.png)
 
 ```
