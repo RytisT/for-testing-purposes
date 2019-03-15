@@ -1,7 +1,6 @@
 
 `` not style
-2. 
- use
+2. use
  ``` 
 code
  ``` 
