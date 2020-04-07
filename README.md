@@ -1,12 +1,4 @@
-`` not style
-
- use
- ``` 
-code
- ``` 
-no style by default,have to 
-
-``` 
+```JSON 
 {
     "key": "mohamicorp-render-markdownn",
     "name": "Markdown Extensions for Confluence",
