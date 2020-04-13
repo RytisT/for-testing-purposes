@@ -1,6 +1,6 @@
 ```JSON 
 {
-    "key": "mohamicorp-render-markdownn",
+    "key": "aamohamicorp-render-markdownn",
     "name": "Markdown Extensions for Confluence",
     "description": "Provide macro for displaying markdown content in Confluence pages.",
     "baseUrl": "https://4fbcf35c.ngrok.io",
@@ -209,4 +209,4 @@
         "read"
     ]
 }
- ```
+```
