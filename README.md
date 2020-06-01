@@ -1,1 +1,1 @@
-~~ This was mistaken text ~~
+~~This was mistaken text~~
