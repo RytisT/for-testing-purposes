@@ -5,7 +5,7 @@
 | col 3 is | right-aligned |    $1 |
 
 [I'm an inline-style link](https://www.evil.com)
-
+this is new
 <a href="https://www.evil.com">link2</a>
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
