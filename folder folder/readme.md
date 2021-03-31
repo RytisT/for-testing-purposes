@@ -1,21 +1,12 @@
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  value 1 <br /> value 2 <br /> value 3  | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-[I'm an inline-style link](https://www.evil.com)
-this is new
-<a href="https://www.evil.com">link2</a>
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  value 1 <br /> value 2 <br /> value 3  | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-[I'm an inline-style link](https://www.evil.com)
-
+same package 
+![Image of Yaktocat](./129-1295793_agent-anonymous-incognito-private-secret-unknown-anonymous-person-icon.png)
+[a relative link](./129-1295793_agent-anonymous-incognito-private-secret-unknown-anonymous-person-icon.png)
+parent package
 ![Image of Yaktocat](../third.jpeg)
+[a relative link](../third.jpeg)
+child package
+![Image of Yaktocat](./new/129-1295793_agent-anonymous-incognito-private-secret-unknown-anonymous-person-icon.png)
+[a relative link](./new/129-1295793_agent-anonymous-incognito-private-secret-unknown-anonymous-person-icon.png)
 
 ../third.jpeg - should be transformed!
-[a relative link](../third.jpeg)
+test/third.jpeg - should be transformed!
