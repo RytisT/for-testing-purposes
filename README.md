@@ -16,3 +16,6 @@ this is new
 [I'm an inline-style link](https://www.evil.com)
 
 ![Image of Yaktocat](./third.jpeg)
+
+test/third.jpeg - should be transformed!
+[a relative link](test/third.jpeg)
