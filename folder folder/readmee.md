@@ -22,3 +22,11 @@ child package
 
 ![Image of Yaktocat](dsfghfd)
 [a relative link](dsfghfd)
+
+src links
+![Image of Yaktocat](https://github.com/RytisT/for-testing-purposes/blob/master/third.jpeg)
+[a relative link](https://github.com/RytisT/for-testing-purposes/blob/master/third.jpeg)
+
+part of url
+![Image of Yaktocat](raw.githubusercontent.com/RytisT/for-testing-purposes/master/third.jpeg)
+[a relative link](www.raw.githubusercontent.com/RytisT/for-testing-purposes/master/third.jpeg)
