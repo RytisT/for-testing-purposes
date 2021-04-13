@@ -29,4 +29,4 @@ src links
 
 part of url
 ![Image of Yaktocat](raw.githubusercontent.com/RytisT/for-testing-purposes/master/third.jpeg)
-[a relative link](www.raw.githubusercontent.com/RytisT/for-testing-purposes/master/third.jpeg)
+[a relative link](raw.githubusercontent.com/RytisT/for-testing-purposes/master/third.jpeg)
