@@ -68,7 +68,7 @@ a
 a
 a
 [Candle API](https://raw.githubusercontent.com/RytisT/for-testing-purposes/master/vfdcs.md#candle-api)
-[Overview](https://raw.githubusercontent.com/RytisT/for-testing-purposes/master/vfdcs.mdd#overview)  
+[Overview](https://raw.githubusercontent.com/RytisT/for-testing-purposes/master/vfdcs.md#overview)  
 [dxFeed products](https://raw.githubusercontent.com/RytisT/for-testing-purposes/master/vfdcs.md#dxfeed-products)  
 [Candle API](https://github.com/RytisT/for-testing-purposes/edit/master/aaaa.md#candle-api)
 a
