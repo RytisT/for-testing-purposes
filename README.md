@@ -28,3 +28,9 @@ This is a note
 This is a note
 
 :warning:
+---
+**NOTE**
+
+It works with almost all markdown flavours (the below blank line matters).
+
+---
