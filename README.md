@@ -19,3 +19,10 @@ this is new
 
 test/third.jpeg - should be transformed!
 [a relative link](test/third.jpeg)
+
+
+!!! note
+This is a note
+
+!!! note "title"
+This is a note
