@@ -26,3 +26,5 @@ This is a note
 
 !!! note "title"
 This is a note
+
+:warning:
