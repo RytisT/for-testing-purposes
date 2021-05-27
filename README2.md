@@ -15,6 +15,9 @@ this is new
 
 # Link 
 [I'm an inline-style link](https://www.evil.com)
+[I'm an inline-style link](https://www.evil.com)
+[I'm an inline-style link](https://www.evil.com)
+
 
 # Relative Link
 [I'm an inline-style link](./third.jpeg)
@@ -23,12 +26,12 @@ this is new
 ![Image of Yaktocat](./third.jpeg)
 
 # test/third.jpeg - should be transformed!
-[a relative link](test/third.jpeg)
+[a relative link](../test/third.jpeg)
 
 
-# [a relative link as h1](test/third.jpeg)
+# [a relative link as h1](../test/third.jpeg)
 
-[a **relative** link](test/third.jpeg)
+[a **relative** link](./test/third.jpeg)
 
 > [a relative link](test/third.jpeg)
 
