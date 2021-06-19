@@ -9,7 +9,7 @@
 # absolute links
 [not raw](https://github.com/RytisT/for-testing-purposes/blob/master/folder%20folder/README.md)
 [raw](https://raw.githubusercontent.com/RytisT/for-testing-purposes/master/folder%20folder/README.md)
-[nonexistant repo](https://raw.githubusercontent.com/afsfgdsdf/sdfsdfsdf/master/folder%20folder/README.md)
+[nonexistant repo](https://github.com/sdfsdf/sdfsdfsdf/blob/sdfsdf/folder%20folder/README.md)
 [repo](https://github.com/RytisT/for-testing-purposes)
 [github](https://github.com)
 
